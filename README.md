@@ -6,4 +6,4 @@ Instructions: Given an array of integers, find the majority element, i.e., the e
 
 Example Test Case:
 
-Input: [2, 4, 5, 5, 5, 5, 5}
+Input: [2, 4, 5, 5, 5, 5, 5]
